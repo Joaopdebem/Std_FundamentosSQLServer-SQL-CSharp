@@ -1,1 +1,1 @@
-# Std_FundamentosSQLServer-SQL-CSharp
+# Fundamentos de SQL Server pelo Baltaio.
